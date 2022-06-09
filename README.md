@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm obaid nabi lone</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Bengaluru, India</h3>
 
 - React.JS **Vidly**
 
