@@ -4,10 +4,10 @@
 - Proficient in JavaScript
 - React.JS 
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **React.JS** & **Python**
 
-- 💬 Ask me about **react**
-
+- 💬 Ask me about **React** or **Python**
+-  
 - 📫 How to reach me **obaidlone20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
