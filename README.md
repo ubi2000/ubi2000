@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm obaid nabi lone</h1>
+<h1 align="center">Hi 👋, I'm Obaid Lone</h1>
 <h3 align="center">A passionate frontend developer from Bengaluru, India</h3>
 - Proficient in JavaScript
 - React.JS 
