@@ -1,12 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Obaid Lone</h1>
-<h3 align="center">A passionate frontend developer from Bengaluru, India</h3>
+<h3 align="center">A passionate frontend developer from Srinagar, India</h3>
 - Proficient in JavaScript
 - React.JS 
+- NodeJs
+- MongoDB
 
-- 🌱 I’m currently learning **React.JS** && **Python**
+- 🌱 I’m currently learning **Next.JS** && **Python**
 
-- 💬 Ask me about **React** && **Python**
+- 💬 Ask me about **React** && **Javascriot**
 -  
 - 📫 How to reach me **obaidlone200@gmail.com** 
 
