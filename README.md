@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.JS** && **Python**
 
-- 💬 Ask me about **React** && **Javascriot**
+- 💬 Ask me about **React** && **Javascript**
 -  
 - 📫 How to reach me **obaidlone200@gmail.com** 
 
