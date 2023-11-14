@@ -1,16 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Obaid Lone</h1>
-<h3 align="center">A passionate frontend developer from Srinagar, India</h3>
+<h3 align="center">A passionate Full-Stack developer</h3>
 - Proficient in JavaScript
 - React.JS 
 - NodeJs
 - MongoDB
+- Tailwind
+- HTML
+- CSS
+
+- I have basic knowledge about Data Structures and Algorithms 
 
 - 🌱 I’m currently learning **Next.JS** && **Python**
 
 - 💬 Ask me about **React** && **Javascript**
 -  
-- 📫 How to reach me **obaidlone200@gmail.com** 
+- 📫 How to reach me **obaidlone200@gmail.com** or whatsapp me on "+916006621876"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
