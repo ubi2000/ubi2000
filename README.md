@@ -19,6 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<label type="email">Email : obaidlone200@gmail.com </h4>
+<label type="number">Phone : +916006621876</label>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
