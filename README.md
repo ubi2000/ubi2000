@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Obaid Lone</h1>
+<h2 align="center"> MERN Stack Developer</h2>
 <h3 align="center">A passionate Full-Stack developer</h3>
 - Proficient in JavaScript
 - React.JS 
