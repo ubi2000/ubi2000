@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **React** && **Javascript**
 -  
-- 📫 How to reach me **obaidlone200@gmail.com** or whatsapp me on "+916006621876"
+- 📫 How to reach me **loneobaid06@gmail.com** or whatsapp me on "+916006621876"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
